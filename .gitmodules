@@ -1,0 +1,3 @@
+[submodule "cuiing-maven"]
+	path = cuiing-maven
+	url = https://gitee.com/cui-ying/cuiing-maven.git
